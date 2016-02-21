@@ -10,4 +10,4 @@ Thanks for letting us know. Here's what you'll need:
  - Our files above. Download as zip and add the extracted folder to your path. 
 
 #Credits
-Shouts to https://github.com/MuSAELab/muse_osc for linking OSC from Muse to Matlab easily.
+Shouts to [muse_osc](https://github.com/MuSAELab/muse_osc) for linking OSC from Muse to Matlab easily.
