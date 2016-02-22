@@ -9,6 +9,8 @@ Thanks for letting us know. Here's what you'll need:
  - Matlab with Instrument Control Toolbox
  - Our files above. Download as zip and add the extracted folder to your path. 
 
+ Pair your muse with bluetooth, run osc_server_muse.m in the muse_osc-master folder to get started. 
+
 Here's our Devpost: http://devpost.com/software/theremind
 
 ###Credits
