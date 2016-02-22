@@ -1,5 +1,6 @@
-# ThereminD
-Virtual theremin controlled with Muse headband
+#
+ThereminD
+Virtual theremin in Matlab controlled with Muse headband
 Made by Henry Phalen, Sarah Shaykevich, and Michael Urich
 
 ###That looks dope af fam, sign me the heck up
