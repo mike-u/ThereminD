@@ -1,5 +1,5 @@
 function [beats] = Note_Function(u)
-k=1;
+
 Fs1 = 44000; %Set Sampling Frequency
 Fr = Fs1; %Set Reconstruction Frequency
 Fs = Fs1; % The multiple of the sampling frequency to be used
@@ -60,7 +60,8 @@ num_notes = num_oct*12;
 
 octave = (ceil(note_position/num_notes))-2;
 switch ceil(note_position/num_oct)
-    
+    case 0 
+        note = [C(octave,beats)];
     case 1
         note = [C(octave,beats)];
     case 2
